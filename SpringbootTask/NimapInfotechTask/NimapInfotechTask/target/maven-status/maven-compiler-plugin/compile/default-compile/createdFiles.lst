@@ -1,0 +1,7 @@
+com\task\controller\ProductController.class
+com\task\NimapInfotechTaskApplication.class
+com\task\controller\CategoryController.class
+com\task\repository\ProductRepository.class
+com\task\repository\CategoryRepository.class
+com\task\entity\Category.class
+com\task\entity\Product.class
